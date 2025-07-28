@@ -1,7 +1,7 @@
 package com.alurachallenge.Api_ForoHub.domain.respuesta;
 
 import com.alurachallenge.Api_ForoHub.domain.topico.Topico;
-import com.alurachallenge.Api_ForoHub.domain.usuario.Usuario;
+import com.alurachallenge.Api_ForoHub.domain.user.Usuario;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
